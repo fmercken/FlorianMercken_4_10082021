@@ -1045,3 +1045,7 @@ h4 {
 .sr-only{
     display: none;
 }
+
+.pt-01{
+    font-size: 20px;
+}
